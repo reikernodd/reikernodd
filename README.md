@@ -4,9 +4,10 @@
 ***
   
 
-<img width=500 src='https://github-readme-stats.vercel.app/api?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&count_private=true&layout=compact' />
+<img width=500 src='https://github-readme-stats.vercel.app/api?username=Tonyjnr&theme=radical&show_icons=true&hide_border=true&count_private=true&layout=compact' />
 <img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=Tonyjnr&theme=radical&hide_border=true&layout=compact' />
-<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&layout=compact' />
+<img width=500 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyjnr&theme=radical
+  &show_icons=true&hide_border=true&layout=compact' />
 
 
   #### ```TOTAL PROFILE VIEWS 🧚```
