@@ -4,9 +4,9 @@
 ***
   
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Tonyjnr&theme=dracula&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&layout=compact' />
+<img width=600 src='https://github-readme-stats.vercel.app/api?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&count_private=true' />
+<img width=600 src='https://github-readme-streak-stats.herokuapp.com/?user=Tonyjnr&theme=dracula&hide_border=true' />
+<img width=600 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyjnr&theme=dracula&show_icons=true&hide_border=true&layout=compact' />
 
 
   #### ```TOTAL PROFILE VIEWS 🧚```
