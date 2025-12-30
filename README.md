@@ -12,7 +12,7 @@ I'm Reikernodd - a full-stack developer who loves building practical solutions a
 - Advanced bot architecture and automation
 - Docker orchestration and containerization
 - Real-time messaging systems
-- Server optimization and scaling
+- Server optimisation and scaling
 
 🤝 **Open to collaborate on:**
 - Full-stack web applications
