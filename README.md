@@ -9,10 +9,9 @@ I'm Tony - a full-stack developer who loves building practical solutions and bre
 - Docker-based microservices
 
 🌱 **Currently learning:**
-- Advanced bot architecture and automation
 - Docker orchestration and containerization
 - Real-time messaging systems
-- Server optimization and scaling
+- Server optimisation and scaling
 
 🤝 **Open to collaborate on:**
 - Full-stack web applications
